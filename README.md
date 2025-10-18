@@ -20,7 +20,7 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 8. Skyrim
 9. God Of War
 10. God Of War Ragnarock
-> And many more ...
+> And many more ... Like competitives games that I try to forget about, you know :wink:
 
 ## :wrench: Mods
 
@@ -30,7 +30,6 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 ## :guitar: Music
 
-I mostly listen to the following genra:
 - Instrumental Heavy Metal (like the famous Mick Gordon :rage4:, but I also love very niche subgenra groups like: Deaf Election, DeathKite, Slightless in Shadow, No Sons of Mine ...)
 - US Rap (Logic and Eminem mostly)
 - Synthwave (Danger, WaveShaper, ToneBox, DEADLIFE, Nightstop, Carpenter Brut ...)
