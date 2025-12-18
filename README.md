@@ -30,7 +30,7 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 ## :guitar: Music
 
-- Instrumental Heavy Metal (like the famous Mick Gordon :rage4:, but I also love very niche subgenra groups like: Deaf Election, DeathKite, Sightless in Shadow, No Sons of Mine, Under Earth ...)
+- Instrumental Heavy Metal :metal: (I love very niche subgenra groups like: Deaf Election, DeathKite, Sightless in Shadow, No Sons of Mine, Off Cuts, Under Earth ... But some classics as well like Mick Gordon)
 - US Rap (Logic and Eminem mostly)
 - Synthwave (Danger, WaveShaper, ToneBox, DEADLIFE, Nightstop, Carpenter Brut ...)
 - Drum N Bass (mostly for the fun, thanks to Venjent)
