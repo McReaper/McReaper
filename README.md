@@ -24,9 +24,9 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 ## :wrench: Mods
 
-1. Single Player Tarkov
-2. World At War
-3. Black Ops 3 Mod Tools
+1. Black Ops 3 Mod Tools
+2. Single Player Tarkov
+3. World At War
 
 ## :guitar: Music
 
