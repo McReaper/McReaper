@@ -10,6 +10,9 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 ## :sparkling_heart: Favorite Games
 
+<details>
+<summary>List of them...</summary>
+
 1. The Last of Us
 2. The Last of Us Part II
 3. Escape From Tarkov
@@ -22,6 +25,8 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 10. God Of War Ragnarock
 > And many more ... Like competitives games that I try to forget about, you know :wink:
 
+</details>
+
 ## :wrench: Mods
 
 1. Black Ops 3 Mod Tools
@@ -29,6 +34,9 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 3. World At War
 
 ## :guitar: Music
+
+<details>
+<summary>List of groups and genras...</summary>
 
 - Instrumental Heavy Metal :metal:, I love very niche subgenra groups like:
   - Deaf Election
@@ -43,6 +51,8 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 - US Rap (Logic and Eminem mostly)
 - Synthwave (Danger, WaveShaper, ToneBox, DEADLIFE, Nightstop, Carpenter Brut ...)
 - Drum N Bass (mostly for the fun, thanks to Venjent)
+
+</details>
 
 ## :inbox_tray: Contacts
 
