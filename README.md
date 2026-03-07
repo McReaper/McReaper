@@ -6,6 +6,8 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer bor
 
 Check my [github portfolio](https://github.com/VictorMalodPortfolio) :octocat:
 
+My AlpOSS 2026's [feedback 🗣️](https://github.com/McReaper/alposs2026_personnal_summary) ➡️ [static website](https://mcreaper.github.io/alposs2026_personnal_summary/)
+
 For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/) :briefcase:
 
 ## :sparkling_heart: Favorite Games
