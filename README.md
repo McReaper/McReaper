@@ -1,9 +1,10 @@
+<img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper" />
+
 ## :wave: Hi
 
 Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer born in 1999.
 
 ## :construction_worker: Professional Experience
-<img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper" />
 
 Check my [github portfolio](https://github.com/VictorMalodPortfolio) :octocat:
 
