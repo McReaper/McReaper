@@ -1,18 +1,18 @@
 <img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper" />
 
-## :wave: Hi
+### :wave: Hi
 
 Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer born in 1999.
 
-## :construction_worker: Professional Experience
+### :construction_worker: Professional Experience
 
-Check my [github portfolio](https://github.com/VictorMalodPortfolio) :octocat:
+Check out my [github portfolio](https://github.com/VictorMalodPortfolio) :octocat:
 
-My AlpOSS 2026's [feedback 🗣️](https://github.com/McReaper/alposs2026_personnal_summary) ➡️ [static website](https://mcreaper.github.io/alposs2026_personnal_summary/)
+My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary) :speaking_head:
 
 For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/) :briefcase:
 
-## :sparkling_heart: Favorite Games
+### :sparkling_heart: Favorite Games
 
 <details>
 <summary>List of them...</summary>
@@ -31,13 +31,13 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 </details>
 
-## :wrench: Mods
+### :wrench: Mods
 
 1. Black Ops 3 Mod Tools
 2. Single Player Tarkov
 3. World At War
 
-## :guitar: Music
+### :guitar: Music
 
 <details>
 <summary>List of groups and genras...</summary>
