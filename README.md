@@ -6,16 +6,20 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer bor
 
 ### :construction_worker: Professional Experience
 
-Check out my [github portfolio](https://github.com/VictorMalodPortfolio) :octocat:
+- :octocat: Check out my [github portfolio](https://github.com/VictorMalodPortfolio)
+- :speaking_head: My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary) 
+- :briefcase: For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/)
 
-My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary) :speaking_head:
+### :wrench: Mods
 
-For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/) :briefcase:
+1. Black Ops 3 Mod Tools
+2. Single Player Tarkov
+3. World At War
 
-### :sparkling_heart: Favorite Games
+### :grey_question: About me
 
 <details>
-<summary>List of them...</summary>
+<summary>:sparkling_heart: Favorite Games</summary>
 
 1. The Last of Us
 2. The Last of Us Part II
@@ -31,16 +35,8 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 
 </details>
 
-### :wrench: Mods
-
-1. Black Ops 3 Mod Tools
-2. Single Player Tarkov
-3. World At War
-
-### :guitar: Music
-
 <details>
-<summary>List of groups and genras...</summary>
+<summary>:guitar: Music</summary>
 
 - Instrumental Heavy Metal :metal:, I love very niche subgenra groups like:
   - Deaf Election
@@ -61,4 +57,5 @@ For past experiences and formations, check my [linkedin account](https://www.lin
 ## :inbox_tray: Contacts
 
 - :mailbox_with_mail: Reach me through linked-in for professional opportunities.
+- :mailbox_with_mail: You can try email me at victor.malod@outlook.fr
 - :mailbox_closed: You can try to reach me on discord: `reapy`, but there is a low chance I accept your friend request if we don't share contacts/servers
