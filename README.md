@@ -56,6 +56,6 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer bor
 
 ## :inbox_tray: Contacts
 
-- :mailbox_with_mail: Reach me through linked-in for professional opportunities.
+- :mailbox_with_mail: Reach me through [linked-in](https://www.linkedin.com/in/victor-malod/) for professional opportunities.
 - :mailbox_with_mail: You can try email me at victor.malod@outlook.fr
 - :mailbox_closed: You can try to reach me on discord: `reapy`, but there is a low chance I accept your friend request if we don't share contacts/servers
