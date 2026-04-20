@@ -9,6 +9,7 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer bor
 - :octocat: Check out my [github portfolio](https://github.com/VictorMalodPortfolio)
 - :speaking_head: My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary) 
 - :briefcase: For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/)
+- :skull: I also started to gather [funny quotes](https://gist.github.com/McReaper/5ad72f2f6b572f7d6d19ceeea8ac32f1) I found on the internet, it would be a shame to not share/save them...
 
 ### :wrench: Mods
 
