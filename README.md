@@ -1,15 +1,16 @@
-<img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper" />
-
 ### :wave: Hi
 
-Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer born in 1999.
+Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](https://gist.github.com/McReaper/5ad72f2f6b572f7d6d19ceeea8ac32f1) born in 1999.
+
+[<img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper"/>]:#
+
+---
 
 ### :construction_worker: Professional Experience
 
 - :octocat: Check out my [github portfolio](https://github.com/VictorMalodPortfolio)
 - :speaking_head: My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary) 
 - :briefcase: For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/)
-- :skull: I also started to gather [funny quotes](https://gist.github.com/McReaper/5ad72f2f6b572f7d6d19ceeea8ac32f1) I found on the internet, it would be a shame to not share/save them...
 
 ### :wrench: Mods
 
@@ -55,7 +56,7 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and software engineer bor
 
 </details>
 
-## :inbox_tray: Contacts
+### :inbox_tray: Contacts
 
 - :mailbox_with_mail: Reach me through [linked-in](https://www.linkedin.com/in/victor-malod/) for professional opportunities.
 - :mailbox_with_mail: You can try email me at victor.malod@outlook.fr
