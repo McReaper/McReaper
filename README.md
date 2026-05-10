@@ -2,8 +2,6 @@
 
 Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](https://gist.github.com/McReaper/5ad72f2f6b572f7d6d19ceeea8ac32f1) born in 1999.
 
-[<img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper"/>]:#
-
 ---
 
 ### :construction_worker: Professional Experience
@@ -61,3 +59,7 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](h
 - :mailbox_with_mail: Reach me through [linked-in](https://www.linkedin.com/in/victor-malod/) for professional opportunities.
 - :mailbox_with_mail: You can try email me at victor.malod@outlook.fr
 - :mailbox_closed: You can try to reach me on discord: `reapy`, but there is a low chance I accept your friend request if we don't share contacts/servers
+
+---
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper"/></p>
