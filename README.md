@@ -8,7 +8,7 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](h
 
 - :octocat: Check out my [github portfolio](https://github.com/VictorMalodPortfolio)
 - :speaking_head: My AlpOSS 2026's [feedback](https://github.com/McReaper/alposs2026_personnal_summary)
-- :speaking_head: My [REX](https://github.com/McReaper/building-a-rag-with-llms/): Building a RAG with LLMs
+- :speaking_head: My [REX](https://github.com/McReaper/building-a-rag-with-llms/): Building a RAG with LLMs (🇫🇷)
 - :briefcase: For past experiences and formations, check my [linkedin account](https://www.linkedin.com/in/victor-malod/)
 
 ### :wrench: Mods
