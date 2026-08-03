@@ -13,7 +13,7 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](h
 
 ### :wrench: Mods
 
-1. Black Ops 3 Mod Tools :arrow_right: Check my [organization](https://github.com/orgs/t7-reapy/repositories)'s repositories (some still private), in WIP :construction:.
+1. Black Ops 3 Mod Tools :arrow_right: Check my [organization](https://github.com/orgs/t7-reapy/repositories)'s repositories (**EVERYTHING** private for now, because WIP :construction: on **BIG** stuff.), 
 2. Single Player Tarkov
 3. World At War
 
