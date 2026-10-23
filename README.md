@@ -13,9 +13,8 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](h
 
 ### :wrench: Mods
 
-1. Black Ops 3 Mod Tools :arrow_right: check [T7 Companion 🤖](https://github.com/McReaper/t7_companion)
+1. Black Ops 3 Mod Tools :arrow_right: check [my workspace](https://github.com/McReaper/t7_workspace) or [T7 Companion 🤖](https://github.com/McReaper/t7_companion)
 2. Single Player Tarkov
-3. World At War
 
 ### :grey_question: About me
 
