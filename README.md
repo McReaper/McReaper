@@ -13,8 +13,8 @@ Hi ! My name is Victor, I'm a passionate gamer, modder and [software engineer](h
 
 ### :wrench: Mods
 
-1. Black Ops 3 Mod Tools :arrow_right: check [my workspace](https://github.com/McReaper/t7_workspace) or [T7 Companion 🤖](https://github.com/McReaper/t7_companion)
-2. Single Player Tarkov
+1. Black Ops 3 Mod Tools :arrow_right: check out [T7 Companion 🤖](https://github.com/McReaper/t7_companion) ! or my [workshop 📥](https://steamcommunity.com/id/mcreaper/myworkshopfiles/?appid=311210) / [workspace 🛠️](https://github.com/McReaper/t7_workspace)
+2. Single Player Tarkov :arrow_right: check [my mods](https://sp-mod.com/user/127693/reapy#mods)
 
 ### :grey_question: About me
 
