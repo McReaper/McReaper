@@ -23,20 +23,15 @@
 
 ### 🧟 Black Ops III
 
-<table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/G37yaG4MJuw"><img src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" alt="Rainy Doom teaser"/></a>
-    </td>
-    <td>
-      <b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b>, my first Zombies map<br/>
-      <sub>On the Steam Workshop · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a></sub><br/><br/>
-      <b><a href="https://github.com/McReaper/t7_workspace">t7_workspace</a></b><br/>
-      <sub>600+ commits of mapping, scripting, lighting and sound</sub><br/><br/>
-      <code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code> <code>Zombies</code>
-    </td>
-  </tr>
-</table>
+<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" hspace="12" alt="Rainy Doom teaser"/></a>
+
+<b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b>, my first Zombies map<br/>
+<sub>On the Steam Workshop · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a></sub><br/><br/>
+<b><a href="https://github.com/McReaper/t7_workspace">t7_workspace</a></b><br/>
+<sub>600+ commits of mapping, scripting, lighting and sound</sub><br/><br/>
+<code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code> <code>Zombies</code>
+
+<p><br clear="left"/></p>
 
 <table>
   <tr>
@@ -62,21 +57,16 @@
 
 ### 🎒 Single Player Tarkov
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" width="270" alt="Radio Norvinsk"/></a>
-    </td>
-    <td>
-      <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤝<br/>
-      <sub>A radio host that tells your friends' raids in Discord</sub><br/><br/>
-      <b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤝 · <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤝<br/>
-      <sub>Skip the PMC/Scav and insurance screens</sub><br/><br/>
-      <sub>Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading Animations</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo & Stickers</a></sub><br/><br/>
-      <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" width="300" hspace="12" alt="Radio Norvinsk"/></a>
+
+<b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤝<br/>
+<sub>A radio host that tells your friends' raids in Discord</sub><br/><br/>
+<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤝 · <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤝<br/>
+<sub>Skip the PMC/Scav and insurance screens</sub><br/>
+<sub>Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading Animations</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo & Stickers</a></sub><br/><br/>
+<code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
+
+<p><br clear="left"/></p>
 
 ### ☁️ Homelab
 
