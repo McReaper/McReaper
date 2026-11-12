@@ -33,25 +33,20 @@
 
 <p><br clear="left"/></p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/McReaper/t7_companion"><img src="https://raw.githubusercontent.com/McReaper/t7_companion/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 Companion</b></a> 🤝<br/>
-      <sub>BO3 modding knowledge, skills and toolchain for AI agents</sub><br/>
-      <code>Go</code> <code>MCP</code> <code>SQLite</code>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/McReaper/t7_dxbc"><img src="https://raw.githubusercontent.com/McReaper/t7_dxbc/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 DXBC</b></a> 🤖<br/>
-      <sub>The game's compiled shaders back to HLSL</sub><br/>
-      <code>Go</code> <code>DirectX 11</code> <code>HLSL</code>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/McReaper/t7_radiant_bridge"><img src="https://raw.githubusercontent.com/McReaper/t7_radiant_bridge/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 Radiant Bridge</b></a> 🤖<br/>
-      <sub>Drive the map editor from other programs</sub><br/>
-      <code>C++17</code> <code>Win32</code> <code>Named pipes</code>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/McReaper/t7_companion"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_companion/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
+
+<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · <sub>BO3 modding knowledge, skills and toolchain for AI agents</sub><br/>
+<code>Go</code> <code>MCP</code> <code>SQLite</code><br clear="left"/>
+
+<a href="https://github.com/McReaper/t7_dxbc"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_dxbc/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
+
+<b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · <sub>The game's compiled shaders back to HLSL</sub><br/>
+<code>Go</code> <code>DirectX 11</code> <code>HLSL</code><br clear="left"/>
+
+<a href="https://github.com/McReaper/t7_radiant_bridge"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_radiant_bridge/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
+
+<b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · <sub>Drive the map editor from other programs</sub><br/>
+<code>C++17</code> <code>Win32</code> <code>Named pipes</code><br clear="left"/>
 
 <sub>Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a></sub>
 
