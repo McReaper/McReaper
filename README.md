@@ -25,10 +25,10 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://youtu.be/G37yaG4MJuw"><img src="https://img.youtube.com/vi/G37yaG4MJuw/hqdefault.jpg" alt="Rainy Doom teaser"/></a>
+    <td>
+      <a href="https://youtu.be/G37yaG4MJuw"><img src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" alt="Rainy Doom teaser"/></a>
     </td>
-    <td width="50%">
+    <td>
       <b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b>, my first Zombies map<br/>
       <sub>On the Steam Workshop · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a></sub><br/><br/>
       <b><a href="https://github.com/McReaper/t7_workspace">t7_workspace</a></b><br/>
@@ -64,10 +64,10 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" alt="Radio Norvinsk"/></a>
+    <td>
+      <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" width="270" alt="Radio Norvinsk"/></a>
     </td>
-    <td width="50%">
+    <td>
       <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤝<br/>
       <sub>A radio host that tells your friends' raids in Discord</sub><br/><br/>
       <b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤝 · <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤝<br/>
