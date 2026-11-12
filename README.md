@@ -1,48 +1,97 @@
-### :wave: Hi
+<h1 align="center">Hey, I'm Victor 👋</h1>
 
-I'm Victor, a passionate gamer, modder and software engineer based in Grenoble 🇫🇷, born in 1999.
+<p align="center"><b>Gamer · Modder · Software engineer</b><br/>Grenoble 🇫🇷 · born in 1999</p>
 
-I like building things that prove themselves: infrastructure rebuilt from Git, a decompiler whose output is recompiled and run against the original, an AI agent that cites its sources.
+<p align="center">
+  <a href="https://steamcommunity.com/id/mcreaper/myworkshopfiles/?appid=311210"><img src="https://img.shields.io/badge/Steam-Workshop-171a21?logo=steam&logoColor=white" alt="Steam Workshop"/></a>
+  <a href="https://sp-mod.com/user/127693/reapy#mods"><img src="https://img.shields.io/badge/SPT-Mods-6b6b3a" alt="SPT mods"/></a>
+  <a href="https://www.linkedin.com/in/victor-malod/"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Malod-0A66C2" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Discord-reapy-5865F2?logo=discord&logoColor=white" alt="Discord: reapy"/>
+</p>
 
-### :compass: How I work
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"/>
+  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black" alt="OpenTofu"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code"/>
+</p>
 
-AI agents write most of my code these days. My part is what they can't be trusted with alone: the spec, the architecture, and the checks that decide whether their work is right. Depending on the project, that's tests that failed before the fix, mutation testing, oracles, or CI gates out of the agent's reach. When the checks pass and something still feels off, I dig until I know why.
+### 🧟 Black Ops III
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://youtu.be/G37yaG4MJuw"><img src="https://img.youtube.com/vi/G37yaG4MJuw/hqdefault.jpg" alt="Rainy Doom teaser"/></a>
+    </td>
+    <td width="50%">
+      <b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b>, my first Zombies map<br/>
+      <sub>On the Steam Workshop · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a></sub><br/><br/>
+      <b><a href="https://github.com/McReaper/t7_workspace">t7_workspace</a></b><br/>
+      <sub>600+ commits of mapping, scripting, lighting and sound</sub><br/><br/>
+      <code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code> <code>Zombies</code>
+    </td>
+  </tr>
+</table>
 
-### :star: Featured work
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/McReaper/t7_companion"><img src="https://raw.githubusercontent.com/McReaper/t7_companion/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 Companion</b></a> 🤝<br/>
+      <sub>BO3 modding knowledge, skills and toolchain for AI agents</sub><br/>
+      <code>Go</code> <code>MCP</code> <code>SQLite</code>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/McReaper/t7_dxbc"><img src="https://raw.githubusercontent.com/McReaper/t7_dxbc/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 DXBC</b></a> 🤖<br/>
+      <sub>The game's compiled shaders back to HLSL</sub><br/>
+      <code>Go</code> <code>DirectX 11</code> <code>HLSL</code>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/McReaper/t7_radiant_bridge"><img src="https://raw.githubusercontent.com/McReaper/t7_radiant_bridge/main/docs/media/logo.svg" width="64" alt=""/><br/><b>T7 Radiant Bridge</b></a> 🤖<br/>
+      <sub>Drive the map editor from other programs</sub><br/>
+      <code>C++17</code> <code>Win32</code> <code>Named pipes</code>
+    </td>
+  </tr>
+</table>
 
-**☁️ Infrastructure**
+<sub>Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a></sub>
 
-- [**Homelab**](https://github.com/McReaper/Homelab): a k3s cluster on an OVH VPS, rebuilt from Git. OpenTofu provisions the server and the DNS, Argo CD (app of apps) deploys the rest, and secrets live encrypted in the repo (SOPS + age). cert-manager gets a wildcard Let's Encrypt certificate over DNS-01, Traefik serves it, and Authelia (OIDC SSO + MFA) stands in front. CI scans it with Trivy, Renovate keeps it current.
-- [**DockerTooling**](https://github.com/McReaper/DockerTooling): the container I run it from (kubectl, helm, tofu, k9s, sops…), built and Trivy-gated by CI, so a machine only needs Docker.
+### 🎒 Single Player Tarkov
 
-**🤖 AI agents**
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" alt="Radio Norvinsk"/></a>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤝<br/>
+      <sub>A radio host that tells your friends' raids in Discord</sub><br/><br/>
+      <b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤝 · <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤝<br/>
+      <sub>Skip the PMC/Scav and insurance screens</sub><br/><br/>
+      <sub>Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading Animations</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo & Stickers</a></sub><br/><br/>
+      <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
+    </td>
+  </tr>
+</table>
 
-- [**T7 Companion**](https://github.com/McReaper/t7_companion): ten years of the Black Ops III modding community's knowledge, a skill for each craft and a headless build of the game's toolchain, for an AI agent. One Go binary serves it over MCP, offline, and every search hit carries its source and reliability so the agent can cite it.
-- [**Rumblestrip**](https://github.com/McReaper/rumblestrip-go): an anti-drift kit for AI-written Go. The agent writes the spec in plain English for a human to approve, then the code, and about twenty checks it can't switch off decide whether it merges.
+### ☁️ Homelab
 
-**🔬 Reverse engineering**
+**[Homelab](https://github.com/McReaper/Homelab)** 🤝 · **[DockerTooling](https://github.com/McReaper/DockerTooling)** 🤝: my k3s cluster on an OVH VPS, rebuilt from Git
 
-- [**T7 DXBC**](https://github.com/McReaper/t7_dxbc): a pure-Go disassembler and decompiler for Black Ops III's compiled shaders. Its disassembly matches Microsoft's on all 26,047 shaders of the mod tools, and each decompilation is recompiled, then judged by two oracles, one of them a CPU simulator that runs both shaders on the same random inputs.
-- [**T7 Radiant Bridge**](https://github.com/McReaper/t7_radiant_bridge): a C++17 plugin for the game's level editor that lets any program read, edit (with undo) and capture the open map over a named pipe.
+`k3s` `Argo CD` `OpenTofu` `Helm` `SOPS` `Traefik` `Authelia` `cert-manager` `Trivy` `Renovate`
 
-**🗣️ Talks & notes**
+### 🤖 AI
 
-- [**REX: Building a RAG with LLMs**](https://github.com/McReaper/building-a-rag-with-llms) 🇫🇷: a Pecha Kucha talk at a Grenoble meetup on agentic AI. A local, deterministic pipeline by default, an agent only where the pipeline demonstrably fails.
-- [**AlpOSS 2026**](https://github.com/McReaper/alposs2026_personnal_summary): my notes on the talks of this open-source conference in Échirolles.
+- <img src="https://raw.githubusercontent.com/McReaper/rumblestrip-go/main/docs/media/logo.svg" width="16" alt=""/> **[Rumblestrip](https://github.com/McReaper/rumblestrip-go)** 🤝 · an anti-drift kit for AI-written Go
+- 🎤 **[REX: Building a RAG with LLMs](https://github.com/McReaper/building-a-rag-with-llms)** 🇫🇷 · Pecha Kucha talk at a Grenoble meetup
+- 📝 **[AlpOSS 2026](https://github.com/McReaper/alposs2026_personnal_summary)** · my notes on the open-source conference
 
-**🎓 Before the agents**
-
-- [**Internship, 2021**](https://github.com/McReaper/InternshipINFO4) ([report](https://github.com/McReaper/InternshipINFO4Report)): *Language Design for Linux I/O Scheduling*, evolving the compiler of the PhaistOS DSL to generate Linux kernel modules in C, benchmarked on SSDs.
-- [**Panzer n' Parser**](https://github.com/McReaper/PanzerNParser): a Java survival-strategy game built in four weeks by a team of seven at Polytech Grenoble.
-
-For my professional experience and education, see [LinkedIn](https://www.linkedin.com/in/victor-malod/).
-
-### :wrench: Mods
-
-- **Black Ops III**: [T7 Companion 🤖](https://github.com/McReaper/t7_companion), my [workshop 📥](https://steamcommunity.com/id/mcreaper/myworkshopfiles/?appid=311210) and my [workspace 🛠️](https://github.com/McReaper/t7_workspace)
-- **Single Player Tarkov**: [my mods](https://sp-mod.com/user/127693/reapy#mods)
+<sub>🤝 written with an AI agent (Claude Code), reviewed by me · 🤖 written and tested by an AI agent, end to end</sub>
 
 ### :grey_question: About me
 
@@ -83,17 +132,20 @@ For my professional experience and education, see [LinkedIn](https://www.linkedi
 </details>
 
 <details>
+<summary>:mortar_board: School days</summary>
+
+- [Panzer n' Parser](https://github.com/McReaper/PanzerNParser): a Java game built in four weeks by a team of seven at Polytech Grenoble
+- [2021 internship](https://github.com/McReaper/InternshipINFO4) ([report](https://github.com/McReaper/InternshipINFO4Report)): evolving the PhaistOS DSL's compiler to generate Linux I/O scheduling kernel modules
+
+</details>
+
+<details>
 <summary>:joy: Funny quotes</summary>
 
 A few [quotes about our job](https://gist.github.com/McReaper/5ad72f2f6b572f7d6d19ceeea8ac32f1) that are sad but true.
 
 </details>
 
-### :inbox_tray: Contacts
-
-- :mailbox_with_mail: Reach me through [LinkedIn](https://www.linkedin.com/in/victor-malod/) for professional opportunities.
-- :mailbox_closed: You can try to reach me on Discord: `reapy`, but there is a low chance I accept your friend request if we don't share contacts/servers.
-
----
+<sub>On Discord, there is a low chance I accept your friend request if we don't share contacts or servers.</sub>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=McReaper&label=Profile%20views&color=0e75b6&style=flat" alt="McReaper"/></p>
