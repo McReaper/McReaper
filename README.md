@@ -37,8 +37,9 @@ Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace"
 <b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · BO3 modding knowledge for AI agents<br/>
 <b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
 <b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · drive the map editor from code<br/>
+🎤 <b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX talk</a></b> 🇫🇷 · how I built its knowledge base<br/>
 Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a><br/><br/>
-<code>Go</code> <code>MCP</code> <code>SQLite</code> <code>HLSL</code>
+<code>Go</code> <code>MCP</code> <code>SQLite</code> <code>RAG</code>
 
 <p><br clear="left"/></p>
 
@@ -54,25 +55,15 @@ Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreape
 
 <p><br clear="left"/></p>
 
-### ☁️ Homelab
+### ☁️ Homelab & tooling
 
 <a href="https://github.com/VictorMalodPortfolio/Homelab"><img align="left" src="assets/homelab.svg" width="320" height="180" hspace="12" alt="Homelab architecture: GitHub and Argo CD deploy to k3s on an OVH VPS, provisioned by OpenTofu"/></a>
 
 <b><a href="https://github.com/VictorMalodPortfolio/Homelab">Homelab</a></b> 🤝 · my k3s cluster on an OVH VPS<br/>
 Rebuilt from Git, secrets included<br/>
-<b><a href="https://github.com/VictorMalodPortfolio/DockerTooling">DockerTooling</a></b> 🤝 · the container I run it from<br/><br/>
+<b><a href="https://github.com/VictorMalodPortfolio/DockerTooling">DockerTooling</a></b> 🤝 · the container I run it from<br/>
+<b><a href="https://github.com/McReaper/rumblestrip-go">Rumblestrip</a></b> 🤝 · an anti-drift kit for AI-written Go<br/><br/>
 <code>k3s</code> <code>Argo CD</code> <code>OpenTofu</code> <code>Helm</code> <code>SOPS</code> <code>Traefik</code> <code>Authelia</code>
-
-<p><br clear="left"/></p>
-
-### 🤖 AI
-
-<a href="https://github.com/McReaper/building-a-rag-with-llms"><img align="left" src="assets/rex-talk.jpg" width="320" height="180" hspace="12" alt="Title slide of the talk"/></a>
-
-<b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX: Building a RAG with LLMs</a></b> 🇫🇷 · my meetup talk<br/>
-<b><a href="https://github.com/McReaper/rumblestrip-go">Rumblestrip</a></b> 🤝 · an anti-drift kit for AI-written Go<br/>
-<b><a href="https://github.com/McReaper/alposs2026_personnal_summary">AlpOSS 2026</a></b> · my notes on the conference talks<br/><br/>
-<code>RAG</code> <code>Agents</code> <code>MCP</code> <code>Claude Code</code>
 
 <p><br clear="left"/></p>
 
@@ -113,6 +104,13 @@ Rebuilt from Git, secrets included<br/>
 - US Rap (Logic and Eminem mostly)
 - Synthwave (Danger, WaveShaper, ToneBox, DEADLIFE, Nightstop, Carpenter Brut ...)
 - Drum N Bass (mostly for fun, thanks to Venjent)
+
+</details>
+
+<details>
+<summary>:memo: Conference notes</summary>
+
+- [AlpOSS 2026](https://github.com/McReaper/alposs2026_personnal_summary): my notes on the talks of this open-source conference in Échirolles
 
 </details>
 
