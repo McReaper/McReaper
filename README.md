@@ -23,7 +23,7 @@
 
 ### 🧟 Black Ops III
 
-<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="assets/rainy-doom.jpg" width="320" height="180" hspace="12" alt="Rainy Doom"/></a>
+<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="assets/rainy-doom.png" width="360" height="180" hspace="12" alt="Rainy Doom"/></a>
 
 <b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b> · my first Zombies map<br/>
 5,100 unique subscribers · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a><br/>
@@ -32,7 +32,7 @@ Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace"
 
 <p><br clear="left"/></p>
 
-<a href="https://github.com/McReaper/t7_companion"><img align="left" src="assets/t7-companion.png" width="320" height="180" hspace="12" alt="T7 Companion"/></a>
+<a href="https://github.com/McReaper/t7_companion"><img align="left" src="assets/t7-companion.png" width="360" height="180" hspace="12" alt="T7 Companion"/></a>
 
 <b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · an AI modding toolkit for BO3<br/>
 <b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
@@ -45,19 +45,19 @@ Fork patches: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label
 
 ### 🎒 Single Player Tarkov
 
-<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="assets/radio-norvinsk.jpg" width="320" height="180" hspace="12" alt="Radio Norvinsk"/></a>
+<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="assets/radio-norvinsk.png" width="360" height="180" hspace="12" alt="Radio Norvinsk"/></a>
 
 <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤖 · your friends' raids, told in Discord<br/>
 <b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen (<a href="https://gitlab.com/vibrantrida/no-scav-select" title="Port of vibrantrida's mod">port</a>)<br/>
 <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen (<a href="https://gitlab.com/vibrantrida/no-insurance" title="Port of vibrantrida's mod">port</a>)<br/>
-Fork patches: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
+Fork patches: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Anims</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
 <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
 
 <p><br clear="left"/></p>
 
 ### ☁️ Homelab & tooling
 
-<a href="https://github.com/VictorMalodPortfolio/Homelab"><img align="left" src="assets/homelab.svg" width="320" height="180" hspace="12" alt="Homelab architecture: GitHub and Argo CD deploy to k3s on an OVH VPS, provisioned by OpenTofu"/></a>
+<a href="https://github.com/VictorMalodPortfolio/Homelab"><img align="left" src="assets/homelab.svg" width="360" height="180" hspace="12" alt="Homelab architecture: GitHub and Argo CD deploy to k3s on an OVH VPS, provisioned by OpenTofu"/></a>
 
 <b><a href="https://github.com/VictorMalodPortfolio/Homelab">Homelab</a></b> 🤝 · my k3s cluster on an OVH VPS<br/>
 Rebuilt from Git, secrets included<br/>
