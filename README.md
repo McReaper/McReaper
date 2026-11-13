@@ -23,57 +23,58 @@
 
 ### 🧟 Black Ops III
 
-<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" hspace="12" alt="Rainy Doom teaser"/></a>
+<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" height="180" hspace="12" alt="Rainy Doom teaser"/></a>
 
-<b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b>, my first Zombies map<br/>
-<sub>On the Steam Workshop · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a></sub><br/><br/>
-<b><a href="https://github.com/McReaper/t7_workspace">t7_workspace</a></b><br/>
-<sub>600+ commits of mapping, scripting, lighting and sound</sub><br/><br/>
-<code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code> <code>Zombies</code>
+<b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b> · my first Zombies map<br/>
+5,100 unique subscribers · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a><br/>
+Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace">t7_workspace</a><br/><br/>
+<code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code>
 
 <p><br clear="left"/></p>
 
-<a href="https://github.com/McReaper/t7_companion"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_companion/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
+<a href="https://github.com/McReaper/t7_companion"><img align="left" src="assets/t7-companion.png" width="320" height="180" hspace="12" alt="T7 Companion"/></a>
 
-<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · <sub>BO3 modding knowledge, skills and toolchain for AI agents</sub><br/>
-<code>Go</code> <code>MCP</code> <code>SQLite</code><br clear="left"/>
+<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · BO3 modding knowledge for AI agents<br/>
+<b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
+<b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · drive the map editor from code<br/>
+Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a><br/><br/>
+<code>Go</code> <code>MCP</code> <code>SQLite</code> <code>HLSL</code>
 
-<a href="https://github.com/McReaper/t7_dxbc"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_dxbc/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
-
-<b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · <sub>The game's compiled shaders back to HLSL</sub><br/>
-<code>Go</code> <code>DirectX 11</code> <code>HLSL</code><br clear="left"/>
-
-<a href="https://github.com/McReaper/t7_radiant_bridge"><img align="left" src="https://raw.githubusercontent.com/McReaper/t7_radiant_bridge/main/docs/media/logo.svg" width="56" hspace="12" alt=""/></a>
-
-<b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · <sub>Drive the map editor from other programs</sub><br/>
-<code>C++17</code> <code>Win32</code> <code>Named pipes</code><br clear="left"/>
-
-<sub>Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a></sub>
+<p><br clear="left"/></p>
 
 ### 🎒 Single Player Tarkov
 
-<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="https://raw.githubusercontent.com/McReaper/SPT.RadioNorvinsk/main/docs/media/thumbnail.jpg" width="300" hspace="12" alt="Radio Norvinsk"/></a>
+<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="assets/radio-norvinsk.jpg" width="320" height="180" hspace="12" alt="Radio Norvinsk"/></a>
 
-<b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤝<br/>
-<sub>A radio host that tells your friends' raids in Discord</sub><br/><br/>
-<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤝 · <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤝<br/>
-<sub>Skip the PMC/Scav and insurance screens</sub><br/>
-<sub>Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading Animations</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo & Stickers</a></sub><br/><br/>
+<b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤖 · your friends' raids, told in Discord<br/>
+<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen<br/>
+<b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen<br/>
+Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
 <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
 
 <p><br clear="left"/></p>
 
 ### ☁️ Homelab
 
-**[Homelab](https://github.com/McReaper/Homelab)** 🤝 · **[DockerTooling](https://github.com/McReaper/DockerTooling)** 🤝: my k3s cluster on an OVH VPS, rebuilt from Git
+<a href="https://github.com/VictorMalodPortfolio/Homelab"><img align="left" src="assets/homelab.svg" width="320" height="180" hspace="12" alt="Homelab architecture: GitHub and Argo CD deploy to k3s on an OVH VPS, provisioned by OpenTofu"/></a>
 
-`k3s` `Argo CD` `OpenTofu` `Helm` `SOPS` `Traefik` `Authelia` `cert-manager` `Trivy` `Renovate`
+<b><a href="https://github.com/VictorMalodPortfolio/Homelab">Homelab</a></b> 🤝 · my k3s cluster on an OVH VPS<br/>
+Rebuilt from Git, secrets included<br/>
+<b><a href="https://github.com/VictorMalodPortfolio/DockerTooling">DockerTooling</a></b> 🤝 · the container I run it from<br/><br/>
+<code>k3s</code> <code>Argo CD</code> <code>OpenTofu</code> <code>Helm</code> <code>SOPS</code> <code>Traefik</code> <code>Authelia</code>
+
+<p><br clear="left"/></p>
 
 ### 🤖 AI
 
-- <img src="https://raw.githubusercontent.com/McReaper/rumblestrip-go/main/docs/media/logo.svg" width="16" alt=""/> **[Rumblestrip](https://github.com/McReaper/rumblestrip-go)** 🤝 · an anti-drift kit for AI-written Go
-- 🎤 **[REX: Building a RAG with LLMs](https://github.com/McReaper/building-a-rag-with-llms)** 🇫🇷 · Pecha Kucha talk at a Grenoble meetup
-- 📝 **[AlpOSS 2026](https://github.com/McReaper/alposs2026_personnal_summary)** · my notes on the open-source conference
+<a href="https://github.com/McReaper/building-a-rag-with-llms"><img align="left" src="assets/rex-talk.jpg" width="320" height="180" hspace="12" alt="Title slide of the talk"/></a>
+
+<b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX: Building a RAG with LLMs</a></b> 🇫🇷 · my meetup talk<br/>
+<b><a href="https://github.com/McReaper/rumblestrip-go">Rumblestrip</a></b> 🤝 · an anti-drift kit for AI-written Go<br/>
+<b><a href="https://github.com/McReaper/alposs2026_personnal_summary">AlpOSS 2026</a></b> · my notes on the conference talks<br/><br/>
+<code>RAG</code> <code>Agents</code> <code>MCP</code> <code>Claude Code</code>
+
+<p><br clear="left"/></p>
 
 <sub>🤝 written with an AI agent (Claude Code), reviewed by me · 🤖 written and tested by an AI agent, end to end</sub>
 
