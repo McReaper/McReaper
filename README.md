@@ -48,9 +48,8 @@ Fork patches: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label
 <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="assets/radio-norvinsk.jpg" width="320" height="180" hspace="12" alt="Radio Norvinsk"/></a>
 
 <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤖 · your friends' raids, told in Discord<br/>
-<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen<br/>
-<b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen<br/>
-Both ported from <a href="https://github.com/vibrantrida">vibrantrida</a>'s mods<br/>
+<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen (<a href="https://gitlab.com/vibrantrida/no-scav-select" title="Port of vibrantrida's mod">port</a>)<br/>
+<b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen (<a href="https://gitlab.com/vibrantrida/no-insurance" title="Port of vibrantrida's mod">port</a>)<br/>
 Fork patches: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
 <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
 
