@@ -38,7 +38,7 @@ Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace"
 <b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
 <b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · drive the map editor from code<br/>
 🎤 <b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX talk</a></b> 🇫🇷 · how I built its knowledge base<br/>
-Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a><br/><br/>
+Fork patches: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a><br/><br/>
 <code>Go</code> <code>MCP</code> <code>SQLite</code> <code>RAG</code>
 
 <p><br clear="left"/></p>
@@ -50,7 +50,8 @@ Fixes on forks: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-lab
 <b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤖 · your friends' raids, told in Discord<br/>
 <b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen<br/>
 <b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen<br/>
-Fixes on forks: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
+Both ported from <a href="https://github.com/vibrantrida">vibrantrida</a>'s mods<br/>
+Fork patches: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Loading</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
 <code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
 
 <p><br clear="left"/></p>
