@@ -23,7 +23,7 @@
 
 ### 🧟 Black Ops III
 
-<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="https://img.youtube.com/vi/G37yaG4MJuw/mqdefault.jpg" width="320" height="180" hspace="12" alt="Rainy Doom teaser"/></a>
+<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="assets/rainy-doom.jpg" width="320" height="180" hspace="12" alt="Rainy Doom"/></a>
 
 <b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b> · my first Zombies map<br/>
 5,100 unique subscribers · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a><br/>
@@ -34,7 +34,7 @@ Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace"
 
 <a href="https://github.com/McReaper/t7_companion"><img align="left" src="assets/t7-companion.png" width="320" height="180" hspace="12" alt="T7 Companion"/></a>
 
-<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · BO3 modding knowledge for AI agents<br/>
+<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · an AI modding toolkit for BO3<br/>
 <b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
 <b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · drive the map editor from code<br/>
 🎤 <b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX talk</a></b> 🇫🇷 · how I built its knowledge base<br/>
