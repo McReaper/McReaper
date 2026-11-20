@@ -26,3 +26,16 @@ shrinks to the screen width, one per row.
 | Homelab | Git flows into the cluster | drawn in `cards.py` |
 
 All animations stop under `prefers-reduced-motion`.
+
+## Badges
+
+`assets/badges/*.svg` come from `badges.py`, in the same style: a dark chip, the brand's icon and
+a monospace label. Labels use a forced advance per character (`textLength`), so a badge is the
+same width in any monospace font and the stack row stays on one line on desktop.
+
+```sh
+python tools/cards/badges.py           # writes assets/badges/*.svg
+```
+
+Icons are copied from [Simple Icons](https://simpleicons.org) (CC0 1.0) into `src/icons.json`;
+SPT has no brand icon, so it gets a crosshair.

@@ -3,22 +3,22 @@
 <p align="center"><b>Gamer · Modder · Software engineer</b><br/>Grenoble 🇫🇷 · born in 1999</p>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/mcreaper/myworkshopfiles/?appid=311210"><img src="https://img.shields.io/badge/Steam-Workshop-171a21?logo=steam&logoColor=white" alt="Steam Workshop"/></a>
-  <a href="https://sp-mod.com/user/127693/reapy#mods"><img src="https://img.shields.io/badge/SPT-Mods-6b6b3a" alt="SPT mods"/></a>
-  <a href="https://www.linkedin.com/in/victor-malod/"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Malod-0A66C2" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Discord-reapy-5865F2?logo=discord&logoColor=white" alt="Discord: reapy"/>
+  <a href="https://steamcommunity.com/id/mcreaper/myworkshopfiles/?appid=311210"><img src="assets/badges/steam.svg" alt="Steam Workshop"/></a>
+  <a href="https://sp-mod.com/user/127693/reapy#mods"><img src="assets/badges/spt.svg" alt="SPT mods"/></a>
+  <a href="https://www.linkedin.com/in/victor-malod/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+  <img src="assets/badges/discord.svg" alt="Discord: reapy"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black" alt="OpenTofu"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="assets/badges/csharp.svg" alt="C#"/>
+  <img src="assets/badges/go.svg" alt="Go"/>
+  <img src="assets/badges/claude-code.svg" alt="Claude Code"/>
+  <img src="assets/badges/python.svg" alt="Python"/>
+  <img src="assets/badges/kubernetes.svg" alt="Kubernetes (k8s)"/>
+  <img src="assets/badges/argo-cd.svg" alt="Argo CD"/>
+  <img src="assets/badges/opentofu.svg" alt="OpenTofu"/>
+  <img src="assets/badges/docker.svg" alt="Docker"/>
+  <img src="assets/badges/github-actions.svg" alt="GitHub Actions"/>
 </p>
 
 <p align="center">
