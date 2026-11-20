@@ -48,7 +48,7 @@ def crop_to(path, box, size):
     return webp(img.resize(size, Image.LANCZOS))
 
 
-def card(alt, title, tagline, chip, accent, visual, css="", defs=""):
+def card(alt, title, tagline, chip, accent, visual, css="", defs="", caption=""):
     label, chip_color = chip
     chip_w = len(label) * 8 + 20
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="t">
@@ -68,6 +68,7 @@ def card(alt, title, tagline, chip, accent, visual, css="", defs=""):
   <g clip-path="url(#card)">
     <rect width="{W}" height="{H}" fill="{BG}"/>
     <g clip-path="url(#vis)">{visual}</g>
+    {caption}
     <rect y="{VH}" width="{W}" height="2" fill="{accent}"/>
     <text x="24" y="{VH + 48}" class="ti" fill="{TEXT}">{title}</text>
     <text x="24" y="{VH + 80}" class="tg" fill="{accent}">{tagline}</text>
@@ -81,7 +82,28 @@ def card(alt, title, tagline, chip, accent, visual, css="", defs=""):
 '''
 
 
-# ---------------------------------------------------------------- Rainy Doom: rain + lightning
+# ---------------------------------------------------------------- Rainy Doom: rain above, hell below
+
+def flames(rnd):
+    """Flame tongues licking up behind the caption, and embers rising from them."""
+    def tongues(n, cls, w, h):
+        out = []
+        for i in range(n):
+            x = (i + rnd.uniform(0.15, 0.85)) * W / n
+            tw, th = rnd.uniform(*w), rnd.uniform(*h)
+            out.append(f'<g transform="translate({f(x)} {H})"><path class="{cls}" '
+                       f'd="M{f(-tw)} 0C{f(-tw)} {f(-th * .45)} {f(-tw * .2)} {f(-th * .6)} 0 {f(-th)}'
+                       f'C{f(tw * .2)} {f(-th * .6)} {f(tw)} {f(-th * .45)} {f(tw)} 0Z" '
+                       f'style="animation-duration:{f(rnd.uniform(.8, 1.5))}s;animation-delay:-{f(rnd.uniform(0, 1.5))}s"/></g>')
+        return "".join(out)
+
+    embers = "".join(
+        f'<circle class="em" cx="{f(rnd.uniform(10, W - 10))}" cy="{f(H - rnd.uniform(4, 30))}" r="{f(rnd.uniform(1, 1.9))}" '
+        f'style="animation-duration:{f(rnd.uniform(2.4, 4))}s;animation-delay:-{f(rnd.uniform(0, 4))}s"/>'
+        for _ in range(14))
+    return (f'<rect y="{VH}" width="{W}" height="{H - VH}" fill="url(#heat)"/>'
+            + tongues(9, "fb", (26, 38), (52, 84)) + tongues(14, "ff", (14, 22), (30, 56)) + embers)
+
 
 def rainy_doom():
     rnd = random.Random(1999)
@@ -96,12 +118,21 @@ def rainy_doom():
     <rect width="{W}" height="{VH}" fill="#0b1119" opacity=".25"/>
     <g class="rain"><g>{tile}</g><g transform="translate({-drop[0]} {-drop[1]})">{tile}</g></g>
     <rect class="flash" width="{W}" height="{VH}" fill="#dbe9ff"/>'''
+    defs = '''<linearGradient id="heat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5a1a" stop-opacity="0"/><stop offset="1" stop-color="#ff5a1a" stop-opacity=".28"/></linearGradient>
+    <linearGradient id="fireBack" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ff7a1e" stop-opacity=".9"/><stop offset=".55" stop-color="#b3300a" stop-opacity=".75"/><stop offset="1" stop-color="#4a0b04" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fireFront" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ffd98a"/><stop offset=".4" stop-color="#ff8a24"/><stop offset="1" stop-color="#d2290a" stop-opacity="0"/></linearGradient>'''
     css = f'''.rain{{stroke:#cfe3f5;stroke-opacity:.45;stroke-width:1.1;stroke-linecap:round;animation:fall .8s linear infinite}}
     @keyframes fall{{to{{transform:translate({drop[0]}px,{drop[1]}px)}}}}
     .flash{{opacity:0;animation:flash 9s infinite}}
-    @keyframes flash{{0%,71%{{opacity:0}}72%{{opacity:.38}}73%{{opacity:.05}}74.5%{{opacity:.24}}77%,100%{{opacity:0}}}}'''
+    @keyframes flash{{0%,71%{{opacity:0}}72%{{opacity:.38}}73%{{opacity:.05}}74.5%{{opacity:.24}}77%,100%{{opacity:0}}}}
+    .fb,.ff{{transform-box:fill-box;transform-origin:50% 100%;animation:lick 1.2s ease-in-out infinite}}
+    .fb{{fill:url(#fireBack)}}.ff{{fill:url(#fireFront);opacity:.85}}
+    @keyframes lick{{0%,100%{{transform:scale(1,1)}}25%{{transform:scale(.9,1.2)}}50%{{transform:scale(1.06,.88)}}75%{{transform:scale(.94,1.12)}}}}
+    .em{{fill:#ffd27a;opacity:0;animation:rise 3s linear infinite}}
+    @keyframes rise{{0%{{opacity:0;transform:translate(0,0)}}15%{{opacity:1}}100%{{opacity:0;transform:translate(-14px,-96px)}}}}
+    .ti,.tg{{stroke:#120604;stroke-opacity:.85;stroke-width:6px;stroke-linejoin:round;paint-order:stroke}}'''
     return card("Rainy Doom, my Black Ops III Zombies map, with 5,100 subscribers on the Steam Workshop. Made by hand.",
-                "RAINY DOOM", "BO3 Zombies map · 5,100 subs", HANDMADE, "#a9c3d6", visual, css)
+                "RAINY DOOM", "BO3 Zombies map · 5,100 subs", HANDMADE, "#ff8a4a", visual, css, defs, flames(rnd))
 
 
 # ---------------------------------------------------------------- T7 Companion: current runs through the logo

@@ -20,7 +20,7 @@ shrinks to the screen width, one per row.
 
 | Card | Animation | Source |
 |---|---|---|
-| Rainy Doom | rain, a lightning flash every 9 s | `src/rainy-doom.jpg`, the map's workshop preview |
+| Rainy Doom | rain and a lightning flash every 9 s above, flames and embers behind the caption | `src/rainy-doom.jpg`, the map's workshop preview |
 | T7 Companion | current runs along the logo's traces, pads blink | `src/t7-logo.svg`, from t7_companion |
 | Radio Norvinsk | sound waves from the speaker, an ON AIR lamp | `src/radio-norvinsk.jpg`, the mod's thumbnail |
 | Homelab | Git flows into the cluster | drawn in `cards.py` |

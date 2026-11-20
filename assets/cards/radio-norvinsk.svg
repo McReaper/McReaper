@@ -22,6 +22,7 @@
     <circle class="lamp" cx="292.32" cy="97.92" r="3.2"/>
     <g transform="translate(18 18)"><rect width="78" height="24" rx="4" fill="#0d1117" fill-opacity=".75"/>
       <circle class="lamp" cx="14" cy="12" r="4.5"/><text x="26" y="16.5" class="ch" fill="#ffb3a8">ON AIR</text></g></g>
+    
     <rect y="200" width="480" height="2" fill="#e3b341"/>
     <text x="24" y="248" class="ti" fill="#e6edf3">RADIO NORVINSK</text>
     <text x="24" y="280" class="tg" fill="#e3b341">SPT raids, told in Discord</text>
