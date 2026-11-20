@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Victor 👋</h1>
+<p align="center"><img src="assets/header.svg" width="100%" alt="Hey, I'm Victor, aka Reapy. A soldier holds a rainy street against a zombie horde until black smoke rolls in and the town burns, like the hell rounds of my Black Ops III Zombies map Rainy Doom."/></p>
 
 <p align="center"><b>Gamer · Modder · Software engineer</b><br/>Grenoble 🇫🇷 · born in 1999</p>
 
