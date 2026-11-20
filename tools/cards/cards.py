@@ -200,14 +200,14 @@ def radio_norvinsk():
     box = (248, 400, 1248, 817)
     pic = crop_to("radio-norvinsk.jpg", box, (960, 400))
     sx = W / (box[2] - box[0])
-    speaker = ((725 - box[0]) * sx, (655 - box[1]) * sx)
-    lamp = ((857 - box[0]) * sx, (604 - box[1]) * sx)
+    speaker = ((720 - box[0]) * sx, (645 - box[1]) * sx)    # centre of the speaker grille
+    lamp = ((860.6 - box[0]) * sx, (613.1 - box[1]) * sx)  # the orange light on the front panel
     waves = "".join(
         f'<path class="wv" d="M{f(speaker[0] - 46)} {f(speaker[1] - 30)}a56 56 0 0 0 0 60" style="animation-delay:-{f(i * 0.8)}s"/>'
         for i in range(3))
     visual = f'''<image href="{pic}" width="{W}" height="{VH}" preserveAspectRatio="xMidYMid slice"/>
     <g transform-origin="{f(speaker[0])} {f(speaker[1])}">{waves}</g>
-    <circle class="lamp" cx="{f(lamp[0])}" cy="{f(lamp[1])}" r="3.2"/>
+    <circle class="lamp" cx="{f(lamp[0])}" cy="{f(lamp[1])}" r="3.6"/>
     <g transform="translate(18 18)"><rect width="78" height="24" rx="4" fill="#0d1117" fill-opacity=".75"/>
       <circle class="lamp" cx="14" cy="12" r="4.5"/><text x="26" y="16.5" class="ch" fill="#ffb3a8">ON AIR</text></g>'''
     css = f'''.wv{{fill:none;stroke:#e3b341;stroke-width:3;stroke-linecap:round;transform-box:view-box;transform-origin:{f(speaker[0])}px {f(speaker[1])}px;animation:wave 2.4s ease-out infinite}}
