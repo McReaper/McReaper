@@ -16,7 +16,7 @@ import random
 import re
 import sys
 
-from PIL import Image
+from PIL import Image, ImageEnhance, ImageFilter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "src")
@@ -46,6 +46,21 @@ def crop_to(path, box, size):
     """Crop box (l, t, r, b) out of a source image and resize it to size, as a data URI."""
     img = Image.open(os.path.join(SRC, path)).convert("RGB").crop(box)
     return webp(img.resize(size, Image.LANCZOS))
+
+
+def fit_with_blur(path, size):
+    """The whole source image, fitted to the height of size, over a blurred and darkened copy
+    that fills the rest of the width: nothing is cropped away."""
+    img = Image.open(os.path.join(SRC, path)).convert("RGB")
+    w, h = size
+    scale = max(w / img.width, h / img.height)
+    back = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
+    left, top = (back.width - w) // 2, (back.height - h) // 2
+    back = back.crop((left, top, left + w, top + h)).filter(ImageFilter.GaussianBlur(h / 20))
+    back = ImageEnhance.Brightness(back).enhance(0.45)
+    fw = round(img.width * h / img.height)
+    back.paste(img.resize((fw, h), Image.LANCZOS), ((w - fw) // 2, 0))
+    return webp(back)
 
 
 def card(alt, title, tagline, chip, accent, visual, css="", defs="", caption=""):
@@ -107,7 +122,7 @@ def flames(rnd):
 
 def rainy_doom():
     rnd = random.Random(1999)
-    pic = crop_to("rainy-doom.jpg", (0, 70, 604, 322), (960, 400))
+    pic = fit_with_blur("rainy-doom.jpg", (960, 400))
     drop = (-40, VH)          # one rain tile moves along this vector each cycle
     streaks = []
     for _ in range(70):
