@@ -21,53 +21,22 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-### 🧟 Black Ops III
+<p align="center">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848"><img src="assets/cards/rainy-doom.svg" width="410" alt="Rainy Doom: my Black Ops III Zombies map, 5,100 subscribers. Handmade."/></a>
+  <a href="https://github.com/McReaper/t7_companion"><img src="assets/cards/t7-companion.svg" width="410" alt="T7 Companion: an AI modding toolkit for Black Ops III. AI-assisted."/></a>
+  <a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img src="assets/cards/radio-norvinsk.svg" width="410" alt="Radio Norvinsk: Tarkov raids, told in Discord. AI-built."/></a>
+  <a href="https://github.com/VictorMalodPortfolio/Homelab"><img src="assets/cards/homelab.svg" width="410" alt="Homelab: k3s on an OVH VPS, rebuilt from Git. AI-assisted."/></a>
+</p>
 
-<a href="https://youtu.be/G37yaG4MJuw"><img align="left" src="assets/rainy-doom.png" width="384" height="180" alt="Rainy Doom"/></a>
+<p align="center">
+<b>Rainy Doom</b> · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a> · <a href="https://github.com/McReaper/t7_workspace">t7_workspace</a>, 600+ commits<br/>
+<b>More BO3</b> · <a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a> 🤖 · <a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a> 🤖 · 🎤 <a href="https://github.com/McReaper/building-a-rag-with-llms">REX talk</a> 🇫🇷<br/>
+<b>More Tarkov</b> · <a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a> 🤖 (<a href="https://gitlab.com/vibrantrida/no-scav-select" title="Port of vibrantrida's mod">port</a>) · <a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a> 🤖 (<a href="https://gitlab.com/vibrantrida/no-insurance" title="Port of vibrantrida's mod">port</a>)<br/>
+<b>Tooling</b> · <a href="https://github.com/VictorMalodPortfolio/DockerTooling">DockerTooling</a> 🤝 · <a href="https://github.com/McReaper/rumblestrip-go">Rumblestrip</a> 🤝<br/>
+<b>Fork patches</b> · <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a> · <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Anims</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a>
+</p>
 
-<b><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3745646848">Rainy Doom</a></b> · my first Zombies map<br/>
-5,100 unique subscribers · ▶️ <a href="https://youtu.be/G37yaG4MJuw">teaser</a><br/>
-Made by hand: 600+ commits in <a href="https://github.com/McReaper/t7_workspace">t7_workspace</a><br/><br/>
-<code>Radiant</code> <code>GSC</code> <code>CSC</code> <code>APE</code>
-
-<p><br clear="left"/></p>
-
-<a href="https://github.com/McReaper/t7_companion"><img align="left" src="assets/t7-companion.png" width="384" height="180" alt="T7 Companion"/></a>
-
-<b><a href="https://github.com/McReaper/t7_companion">T7 Companion</a></b> 🤝 · an AI modding toolkit for BO3<br/>
-<b><a href="https://github.com/McReaper/t7_dxbc">T7 DXBC</a></b> 🤖 · the game's shaders back to HLSL<br/>
-<b><a href="https://github.com/McReaper/t7_radiant_bridge">T7 Radiant Bridge</a></b> 🤖 · drive the map editor from code<br/>
-🎤 <b><a href="https://github.com/McReaper/building-a-rag-with-llms">REX talk</a></b> 🇫🇷 · how I built its knowledge base<br/>
-Fork patches: <a href="https://github.com/McReaper/MTPlugins/tree/fix/menu-label-with-slash">MTPlugins</a> · <a href="https://github.com/McReaper/NevisX">NevisX</a><br/><br/>
-<code>Go</code> <code>MCP</code> <code>SQLite</code> <code>RAG</code>
-
-<p><br clear="left"/></p>
-
-### 🎒 Single Player Tarkov
-
-<a href="https://github.com/McReaper/SPT.RadioNorvinsk"><img align="left" src="assets/radio-norvinsk.png" width="384" height="180" alt="Radio Norvinsk"/></a>
-
-<b><a href="https://github.com/McReaper/SPT.RadioNorvinsk">Radio Norvinsk</a></b> 🤖 · your friends' raids, told in Discord<br/>
-<b><a href="https://github.com/McReaper/SPT.NoScavSelect">No Scav Select</a></b> 🤖 · skips the PMC/Scav screen (<a href="https://gitlab.com/vibrantrida/no-scav-select" title="Port of vibrantrida's mod">port</a>)<br/>
-<b><a href="https://github.com/McReaper/SPT.NoInsurance">No Insurance</a></b> 🤖 · skips the insurance screen (<a href="https://gitlab.com/vibrantrida/no-insurance" title="Port of vibrantrida's mod">port</a>)<br/>
-Fork patches: <a href="https://github.com/McReaper/SPT-RaidReview/tree/mcreaper/reconnect">RaidReview</a> · <a href="https://github.com/McReaper/ManimalAmmoLoadingAnimations/tree/mcreaper/fixes">Ammo Anims</a> · <a href="https://github.com/McReaper/SPT.WeaponCamoAndStickers/tree/lazy-texture-previews">Weapon Camo</a><br/><br/>
-<code>C#</code> <code>SPT 4.1</code> <code>Fika</code> <code>Harmony</code>
-
-<p><br clear="left"/></p>
-
-### ☁️ Homelab & tooling
-
-<a href="https://github.com/VictorMalodPortfolio/Homelab"><img align="left" src="assets/homelab.svg" width="384" height="180" alt="Homelab architecture: GitHub and Argo CD deploy to k3s on an OVH VPS, provisioned by OpenTofu"/></a>
-
-<b><a href="https://github.com/VictorMalodPortfolio/Homelab">Homelab</a></b> 🤝 · my k3s cluster on an OVH VPS<br/>
-Rebuilt from Git, secrets included<br/>
-<b><a href="https://github.com/VictorMalodPortfolio/DockerTooling">DockerTooling</a></b> 🤝 · the container I run it from<br/>
-<b><a href="https://github.com/McReaper/rumblestrip-go">Rumblestrip</a></b> 🤝 · an anti-drift kit for AI-written Go<br/><br/>
-<code>k3s</code> <code>Argo CD</code> <code>OpenTofu</code> <code>Helm</code> <code>SOPS</code> <code>Traefik</code> <code>Authelia</code>
-
-<p><br clear="left"/></p>
-
-<sub>🤝 written with an AI agent (Claude Code), reviewed by me · 🤖 written and tested by an AI agent, end to end</sub>
+<p align="center"><sub>🤝 AI-assisted: written with an AI agent (Claude Code), reviewed by me · 🤖 AI-built: written and tested by an AI agent, end to end</sub></p>
 
 ### :grey_question: About me
 
